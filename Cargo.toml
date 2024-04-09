@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = [ "longest_common_prefix", "regular_expression_matching","roman_to_integer", "valid_parentheses"]
